@@ -1,10 +1,9 @@
-|这个作业属于哪个课程|https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/ |
+软件工程第一次作业
+|   这个作业属于哪个课程   |  [班级链接](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/)     |      
+| ---- | ---- | 
+|  这个作业要求在哪里    |  [作业要求](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469)    |      
+| 这个作业的目标 | 自我介绍，熟悉教材，了解软工相关知识以及github和博客园的操作 |   
 
-| ----------------- |--------------- |
-
-| 这个作业要求在哪里|https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469 |
-
-| 这个作业的目标 | 自我介绍，熟悉教材，了解软工相关知识以及github和博客园的操作 |
  
 **1. 自我介绍**
 
