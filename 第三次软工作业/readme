@@ -1,1 +1,6 @@
-
+代码和测试代码在text/src/text中
+运行代码时输入
+编译：javac -encoding UTF-8 text/MathExerciseGenerator.java
+运行：java text.MathExerciseGenerator -n 10 -r 10
+批改：java text.MathExerciseGenerator -e ./Exercises.txt -a ./Answers.txt
+可先自行上传答案文件与题目文件。
